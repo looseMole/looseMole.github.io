@@ -1,7 +1,7 @@
 body,
 html {
     height: 100%;
-    margin: 0;
+    margin: 0%;
 }
 
 * {
@@ -31,14 +31,14 @@ html {
     /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    border: 3px solid #f1f1f1;
+    border:  solid #f1f1f1;
     position: absolute;
     top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
     width: 50%;
-    padding: 20px;
+    padding: 2.8%;
     text-align: center;
 }
 
@@ -65,7 +65,7 @@ header {
     text-align: center;
     font-family: pirateFont;
     background-color: #333;
-    height: 45;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,24 +79,12 @@ header h1 {
     float: center;
 }
 
-#name {
-    position: center;
-    margin-left: 344.42;
-}
-
-
-.imgright {
-    float: right;
-    padding-right: 10px;
-    /* height: 65px;*/
-}
-
 /* Place the navbar at the top of the page, and make it stick */
 .navbar {
     background-color: #333;
     overflow: hidden;
     position: sticky;
-    top: 0px;
+    top: 0%;
     width: 100%;
     z-index: 3;
 
@@ -108,9 +96,11 @@ header h1 {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 1.85% 2.3%;
+        /*14px 16px;*/
     text-decoration: none;
-    font-size: 17px;
+    font-size: 105%;
+        /*17px;*/
     outline: none;
     border: none;
     cursor: pointer;
@@ -121,85 +111,11 @@ header h1 {
 @media screen and (min-width: 800px) {
 
     /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
-    .login-container {
-        float: right;
-        padding: 1px 1px;
-    }
 }
 
 @media screen and (max-width: 800px) {
 
     /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
-    .login-container {
-        float: right;
-        /*padding: 1px px;*/
-        width: 30%;
-        height: 0px;
-    }
-}
-
-.dropbtn {
-    background-color: #333;
-    color: white;
-    padding: 16px;
-    font-size: 17px;
-    border: none;
-    cursor: pointer;
-}
-
-/* The dropdown container */
-.dropdown {
-    float: left;
-    overflow: hidden;
-    position: relative;
-    display: inline-block;
-}
-
-
-
-/* Dropdown button */
-.dropdown .dropbtn {
-    font-size: 17px;
-    border: none;
-    outline: none;
-    color: cornflowerblue;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    /* Important for vertical align on mobile phones */
-    margin: 0;
-    /* Important for vertical align on mobile phones */
-}
-
-/* Dropdown content (hidden by default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #333;
-    min-width: 104.71px;
-    height: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-    color: cornflowerblue;
-    min-width: 104.71px;
-    padding: 14px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-/* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-    display: block;
 }
 
 /* Change the color of links on hover */
