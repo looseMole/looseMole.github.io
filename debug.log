@@ -1,4 +1,0 @@
-[1101/201510.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: Den angivne sti blev ikke fundet. (0x3)
-[1102/170923.157:ERROR:directory_reader_win.cc(43)] FindFirstFile: Den angivne sti blev ikke fundet. (0x3)
-[1102/171047.375:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
-[1103/112042.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: Den angivne sti blev ikke fundet. (0x3)
