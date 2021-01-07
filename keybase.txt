@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/loosemole
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://somebodie.com
+  * I am loosemole (https://keybase.io/loosemole) on keybase.
+  * I have a public key ASDuQlVXstwaUhOOtBYJof1NyD3ZmPo0Gumd_76dfvmEPQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ee425557b2dc1a52138eb41609a1fd4dc83dd998fa341ae99dffbe9d7ef9843d0a",
+      "host": "keybase.io",
+      "kid": "0120ee425557b2dc1a52138eb41609a1fd4dc83dd998fa341ae99dffbe9d7ef9843d0a",
+      "uid": "d91e26ee567f14db004084bbb49eb419",
+      "username": "loosemole"
+    },
+    "merkle_root": {
+      "ctime": 1610012121,
+      "hash": "84b08cda875d2397c22ff693fddf0eedc1b1d7bdda614a31298cb8251360cc7e805c53f96e60d16f469c2d618f069cc492818d1d54038f777c53897ca00bbb61",
+      "hash_meta": "e8cf72b26cca44cc592faccf53be2e3f722dcd7757f80ac89e2674fdd4bdd46b",
+      "seqno": 18623982
+    },
+    "service": {
+      "entropy": "+EvxuHxAloUEI1nHgnqYrsdr",
+      "hostname": "somebodie.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610012169,
+  "expire_in": 504576000,
+  "prev": "f6b4a30bb19ce65baa679a8e03298d153e0ede10f0242298721ba6fbd6ea9cbb",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7kJVV7LcGlITjrQWCaH9Tcg92Zj6NBrpnf++nX75hD0Kp3BheWxvYWTESpcCEMQg9rSjC7Gc5luqZ5qOAymNFT4O3hDwJCKYchum+9bqnLvEINLXveWmi16IIHodb0+9Em4VjWZ9OgecPPur6fsb1p2UAgHCo3NpZ8RAy614SniDBA7r97hhOM8JG8UuckWXwyRGanfnsmIokPao3/HJu2rQurIlu/Wj8isM0de2s5h7E+vd62OinxePDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMUbAtwKZAmSwUjxLZ2NSWs+WZ4fyqfXG8K4+lp+hWrYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/loosemole
+
+==================================================================
