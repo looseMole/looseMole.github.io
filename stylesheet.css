@@ -9,11 +9,7 @@ html {
 }
 
 .image {
-    background-image: url("https://live.staticflickr.com/3471/3810870675_19995af211_b.jpg"); /* "Isola Bella-Taormina-Messina-Sicilia-                 Italy - Creative Commons by gnuckx" 
-                    by gnuckx 
-                    (https://www.flickr.com/photos/34409164@N06) is marked under 
-                    CC0 1.0. To view the terms, visit 
-                    https://creativecommons.org/licenses/cc0/1.0/ */
+    background-image: url("https://preview.redd.it/1g50vnz5ube21.png?width=960&crop=smart&auto=webp&s=07d22cf56048e22cdc03156896c4a239a4c6d055");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100%;
